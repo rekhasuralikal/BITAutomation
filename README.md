@@ -1,0 +1,2 @@
+# BITAutomation
+Automation test cases
